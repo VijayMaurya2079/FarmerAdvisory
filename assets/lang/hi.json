@@ -1,0 +1,172 @@
+{
+    "intro": {
+        "slide1": {
+            "title": "आपकी फसलों पर अधिक आरओआई",
+            "body": "सुगंधित पौधों के बारे में जानें और अपनी फसलों पर अधिक लाभ प्राप्त करें।"
+        },
+        "slide2": {
+            "title": "अपनी फसल को बीमारियों से बचाएं",
+            "body": "पौधों की बीमारियों के बारे में और जानें और पैसे बचाएं।"
+        },
+        "slide3": {
+            "title": "अवसरों की दुनिया",
+            "body": "किसानों और खरीदारों के लिए फसल या अंतिम उत्पाद बेचने और खरीदने के लिए एक बाज़ार स्थान।"
+        },
+        "done": "हो गया",
+        "skip": "छोडना",
+        "footer_button": "चलो तुरंत चलते हैं!"
+    },
+    "language": {
+        "title": "अपनी भाषा चुनें",
+        "hindi": "हिंदी",
+        "english": "अंग्रेज़ी"
+    },
+    "profile": {
+        "title": "अपनी प्रोफ़ाइल चुनें",
+        "farmer": "किसान",
+        "buyer": "खरीददार"
+    },
+    "login": {
+        "title": "अपना मोबाइल नंबर दर्ज करें",
+        "tb_mobile": "अपना मोबाइल नंबर दर्ज करें",
+        "btn_send_otp": "सत्यापन कोड प्राप्त करें"
+    },
+    "otp": {
+        "tb_otp": "मोबाइल नंबर सत्यापित करें",
+        "btn_verify": "मोबाइल नंबर सत्यापित करें",
+        "btn_resend": "फ़ोन नंबर संपादित करें"
+    },
+    "complete_profile": {
+        "title": "अपनी प्रोफ़ाइल पूरी करें",
+        "tb_name": "आपका नाम",
+        "tb_mobile": "मोबाइल नं",
+        "dd_state": "राज्य",
+        "dd_region": "क्षेत्र",
+        "dd_district": "ज़िला",
+        "tb_aadhar": "आधार नंबर",
+        "tb_has_distillation_unit": "आसवन इकाई है",
+        "tb_address": "आसवन इकाई का पता",
+        "tb_org_name": "संगठन का नाम",
+        "tb_org_address": "संगठन का पता",
+        "tb_org_website": "संगठन की वेबसाइट",
+        "tb_org_email": "संगठन ईमेल",
+        "btn_update": "अद्यतन",
+        "btn_reset": "रीसेट करें"
+    },
+    "upload_dp": {
+        "title": "अपनी छवि अपलोड करें"
+    },
+    "dashboard": {
+        "title": "डैशबोर्ड",
+        "crops": "फसलें",
+        "disease": "रोग/कीट",
+        "krishi_mitra": "समस्याएँ एवं सलाह",
+        "weather_prediction": "मौसम की भविष्यवाणी",
+        "market_place": "बाज़ार स्थान",
+        "my_crops": "मेरी फसलें",
+        "faq": "पूछे जाने वाले प्रश्न",
+        "process": "प्रक्रिया/प्रौद्योगिकी/उत्पाद",
+        "distillation": "आसवन इकाई मानचित्र",
+        "map": "अरोमा क्लस्टर मानचित्र"
+    },
+    "distillation": {
+        "title": "आसवन",
+        "add": "आसवन जोड़ें",
+        "dd_state": "राज्य",
+        "dd_district": "ज़िला",
+        "dd_pincode": "पिन कोड",
+        "dd_address": "पता"
+    },
+    "process_tech_pro": {
+        "title": "",
+        "products": "उत्पाद",
+        "processing": "प्रसंस्करण प्रौद्योगिकी",
+        "units": "प्रसंस्करण इकाइयां"
+    },
+    "location_map": {
+        "title": "फसल मानचित्र"
+    },
+    "distilation_map": {
+        "title": "आसवन मानचित्र"
+    },
+    "faq": {
+        "title": "अक्सर पूछे जाने वाले प्रश्न"
+    },
+    "chat": {
+        "title": "बात चीत"
+    },
+    "market_place": {
+        "title": "बाज़ार स्थान",
+        "sale": "बाज़ार में बिक्री",
+        "demand": "बाजार में मांग",
+        "requirement": "पोस्ट आवश्यकता",
+        "market": "बाज़ार"
+    },
+    "sale": {
+        "title": "बाज़ार में बिक्री",
+        "crop_name": "फसल का नाम",
+        "varity_name": "किस्म का नाम",
+        "enter_quantity": "पोस्ट आवश्यकता",
+        "condition": "मैं खरीदारों के साथ विवरण साझा करने के लिए सहमत हूं|",
+        "verity_name":"किस्म का नाम",
+        "quantity":"मात्रा",
+        "ins_date":"पोस्ट तिथि"
+    },
+    "requirement": {
+        "title": "बाज़ार में बिक्री",
+        "crop_name": "फसल का नाम",
+        "varity_name": "किस्म का नाम",
+        "enter_quantity": "पोस्ट आवश्यकता",
+        "condition": "मैं विक्रेताओं के साथ विवरण साझा करने के लिए सहमत हूं|"
+    },
+    "market": {
+        "title": "बाज़ार में उपलब्ध है",
+        "crop_name": "फसल का नाम",
+        "sold_by": "द्वारा बेचा",
+        "available": "बेचने के लिए उपलब्ध",
+        "ins_date": "डालने की तारीख"
+    },
+    "market_detail": {
+        "verity_name": "किस्म का नाम",
+        "quantity_required": "उपलब्ध मात्रा",
+        "seller_detail": "विक्रेता विवरण",
+        "name": "नाम",
+        "mobile_number": "मोबाइल नंबर"
+    },
+    "crop_detail": {
+        "common_name": "साधारण नाम",
+        "botanical_name": "वानस्पतिक नाम",
+        "crop_description": "फसल विवरण",
+        "popular_variety": "उन्नत प्रजातियां",
+        "suitable_states_of_india": "भारत के उपयुक्त राज्य",
+        "suitable_soil_type": "उपयुक्त मिट्टी का प्रकार",
+        "crop_images": "फसल की छवि"
+    },
+    "know_more": {
+        "botanical_name": "वानस्पतिक नाम",
+        "detail": "विवरण"
+    },
+    "demand": {
+        "title": "बाजार की मांग",
+        "crop_name": "फसल का नाम",
+        "demand_by": "द्वारा मांग",
+        "quantity_required": "आवश्यक मात्रा",
+        "ins_date": "डालने की तारीख"
+    },
+    "demand_detail": {
+        "verity_name": "किस्म का नाम",
+        "quantity_required": "आवश्यक मात्रा",
+        "buyer_detail": "क्रेता विवरण",
+        "name": "नाम",
+        "mobile_number": "मोबाइल नंबर",
+        "orgnization_name": "संगठन का नाम",
+        "orgnization_address": "संगठन का पता",
+        "email": "ईमेल",
+        "website": "वेबसाइट"
+    },
+    "disease": {
+        "name": "सामान्य नाम और कारण",
+        "symptoms": "लक्षण",
+        "management": "प्रबंध"
+    }
+}

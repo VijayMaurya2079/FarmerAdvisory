@@ -1,0 +1,68 @@
+name: farmer
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 2.0.21+26
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  # connectivity_plus: ^4.0.1
+  introduction_screen: ^3.1.11
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  sizer: ^2.0.15
+  url_launcher: ^6.0.3
+  image_picker: ^0.8.4+4
+  intl:
+  http:
+  dio: ^4.0.1
+  dio_cache_interceptor: ^3.2.2
+  animate_do:
+  # google_fonts: ^5.1.0
+  package_info_plus: ^4.0.2
+  flutter_gradient_animation_text: ^1.0.2
+  logger: ^1.4.0
+  easy_localization: ^3.0.7
+  dropdown_button2: ^2.3.9
+  loading_animation_widget: ^1.2.0+4
+  flutter_html: ^3.0.0-beta.2
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.13.0
+  firebase_messaging: ^14.7.4
+  flutter_local_notifications: ^18.0.1
+  pinput: ^3.0.1
+  weather_icons: ^3.0.0
+  photo_view: ^0.14.0
+  carousel_slider: ^5.0.0
+  flutter_chat_bubble: ^2.0.2
+  flutter_inappwebview: ^6.0.0
+  # firebase_dynamic_links: ^5.4.8
+  in_app_update: ^4.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.11.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/logo.png"
+  min_sdk_android: 21
+  background_color: "#ffffff"
+  #flutter pub run flutter_launcher_icons:main
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/lang/
+    - assets/icon/

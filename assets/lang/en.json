@@ -1,0 +1,172 @@
+{
+    "intro": {
+        "slide1": {
+            "title": "More ROI On your Crops",
+            "body": "Know About Aromatic Plants & get greater returns on your crops."
+        },
+        "slide2": {
+            "title": "Save your crop from Diseases",
+            "body": "Know More about Plant Diseases and save money."
+        },
+        "slide3": {
+            "title": "World of Opportunities",
+            "body": "A market place for farmers and buyers to sell & Buy crop or end products."
+        },
+        "done": "Done",
+        "skip": "Skip",
+        "footer_button": "Let's go right away!"
+    },
+    "language": {
+        "title": "Choose Your Language",
+        "hindi": "Hindi",
+        "english": "English"
+    },
+    "profile": {
+        "title": "Choose Your Profile",
+        "farmer": "Farmer",
+        "buyer": "Buyer"
+    },
+    "login": {
+        "title": "Enter Your Mobile No",
+        "tb_mobile": "Enter Your Mobile No",
+        "btn_send_otp": "Get verification code"
+    },
+    "otp": {
+        "tb_otp": "Verify Mobile Number",
+        "btn_verify": "Verify Mobile Number",
+        "btn_resend": "Edit phone number"
+    },
+    "complete_profile": {
+        "title": "Complete Your Profile",
+        "tb_name": "Your Name",
+        "tb_mobile": "Mobile No",
+        "dd_state": "State",
+        "dd_region": "Region",
+        "dd_district": "District",
+        "tb_aadhar": "Aadhar No",
+        "tb_has_distillation_unit": "Has Distillation Unit",
+        "tb_address": "Distillation Unit Address",
+        "tb_org_name": "Organization Name",
+        "tb_org_address": "Organization Address",
+        "tb_org_website": "Organization Website",
+        "tb_org_email": "Organization Email",
+        "btn_update": "Update",
+        "btn_reset": "Reset"
+    },
+    "upload_dp": {
+        "title": "Upload Your Image"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "crops": "Crops",
+        "disease": "Disease/Pests",
+        "krishi_mitra": "Problems & Advisory",
+        "weather_prediction": "Weather Prediction",
+        "market_place": "Market Place",
+        "my_crops": "My Crops",
+        "faq": "FAQs",
+        "process": "Process/Technologies/Product",
+        "distillation": "Distillation Unit Map",
+        "map": "Aroma Cluster map"
+    },
+    "distillation": {
+        "title": "Distillation",
+        "add": "Add Distillation",
+        "dd_state": "State",
+        "dd_district": "District",
+        "dd_pincode": "Pincode",
+        "dd_address": "Address"
+    },
+    "process_tech_pro": {
+        "title": "",
+        "products": "Products",
+        "processing": "Processing Techniques",
+        "units": "Processing Units"
+    },
+    "location_map": {
+        "title": "Crop Map"
+    },
+    "distilation_map": {
+        "title": "Distillation Map"
+    },
+    "faq": {
+        "title": "FAQ"
+    },
+    "chat": {
+        "title": "Chat"
+    },
+    "market_place": {
+        "title": "Market Place",
+        "sale": "Sale In Market",
+        "demand": "Demand In Market",
+        "requirement": "Post Requirement",
+        "market": "Market"
+    },
+    "sale": {
+        "title": "Sale In Market",
+        "crop_name": "Crop Name",
+        "varity_name": "Variety Name",
+        "enter_quantity": "Enter Quantity",
+        "condition": "I agree to share details with buyers",
+        "verity_name":"Variety Name",
+        "quantity":"Quantity",
+        "ins_date":"Enter Date"
+    },
+    "requirement": {
+        "title": "Post Requirement",
+        "crop_name": "Crop Name",
+        "varity_name": "Variety Name",
+        "enter_quantity": "Enter Quantity",
+        "condition": "I agree to share details with Sellers"
+    },
+    "market": {
+        "title": "Avilable In Market",
+        "crop_name": "Crop Name",
+        "sold_by": "Sold By",
+        "available": "Available For Sell",
+        "ins_date": "Posted Date"
+    },
+    "market_detail": {
+        "verity_name": "Variety Name",
+        "quantity_required": "Quantity Avilable",
+        "seller_detail": "Seller Details",
+        "name": "Name",
+        "mobile_number": "Mobile Number"
+    },
+    "crop_detail": {
+        "common_name": "Common Name",
+        "botanical_name": "Botanical Name",
+        "crop_description": "Crop Description",
+        "popular_variety": "Popular Varieties",
+        "suitable_states_of_india": "Suitable States of India",
+        "suitable_soil_type": "Suitable Soil Type",
+        "crop_images": "Crop Images"
+    },
+    "know_more": {
+        "botanical_name": "Botanical Name",
+        "detail": "Detail"
+    },
+    "demand": {
+        "title": "Market Demand",
+        "crop_name": "Crop Name",
+        "demand_by": "Demand By",
+        "quantity_required": "Quantity Required",
+        "ins_date": "Posted Date"
+    },
+    "demand_detail": {
+        "verity_name": "Variety Name",
+        "quantity_required": "Quantity Required",
+        "buyer_detail": "Buyer Details",
+        "name": "Name",
+        "mobile_number": "Mobile Number",
+        "orgnization_name": "Organization Name",
+        "orgnization_address": "Organization Address",
+        "email": "Email",
+        "website": "Website"
+    },
+    "disease": {
+        "name": "Common Name and Cause",
+        "symptoms": "Symptoms",
+        "management": "Management"
+    }
+}
